@@ -1,4 +1,4 @@
-# tumi-mundo
+# TuMi Mundo
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
