@@ -32,7 +32,7 @@ Ontwerp en ontwikkel een web applicatie die eindgebruikers in staat stelt om de 
 
 3 Als onderzoeker wil ik kunnen zien in hoeverre de data uit de TuMi Mundo app gebruikt kan worden voor wetenschappelijk onderzoek, zodat we de testen niet meer alleen in het baby lab hoeven uit te voeren.
 
-Als ouders willen we dat ons kind alle voordelen kan ondervinden van een tweetalige opvoeding maar we kunnen dit zelf niet aanbieden omdat we geen tweede taal spreken (of onvoldoende spreken). We zijn op zoek naar een makkelijke en toegankelijke manier om ons en ons kind hier in te ondersteunen en bij de hand te nemen. Hierbij is het natuurlijk leuk om de progressie van ons kind inzichtelijk te krijgen en wellicht zelfs advies te krijgen over eventuele relatie tot de gemiddelde prestaties van alle participerende kinderen. Hierbij is de privacy van de gebruikers natuurlijk wel een vereiste.
+<!--Als ouders willen we dat ons kind alle voordelen kan ondervinden van een tweetalige opvoeding maar we kunnen dit zelf niet aanbieden omdat we geen tweede taal spreken (of onvoldoende spreken). We zijn op zoek naar een makkelijke en toegankelijke manier om ons en ons kind hier in te ondersteunen en bij de hand te nemen. Hierbij is het natuurlijk leuk om de progressie van ons kind inzichtelijk te krijgen en wellicht zelfs advies te krijgen over eventuele relatie tot de gemiddelde prestaties van alle participerende kinderen. Hierbij is de privacy van de gebruikers natuurlijk wel een vereiste.
 
 **Profiel**
 Mogelijkheid tot aanmaken van een profiel om te bepalen in welke fase van taalontwikkeling het kind zit.
@@ -61,7 +61,7 @@ Hier wordt de visuele aandachttrekker recht voor de baby aangeboden, gelijktijdi
 **Head Turn (nice to have)**
 Bij de Head turn moet de baby zelf iets meer initiatief nemen, namelijk door het hoofd richting speaker plus visuele stimulus te draaien en zo de aandacht voor wat er aangeboden wordt te tonen. Er wordt steeds maar één audio-stimulus tegelijk aangeboden, de ene keer links de andere keer rechts. Dat kan natuurlijk de ene keer (links) taal 1 zijn en de andere keer (rechts) taal 2.
 
-Indien wenselijk kunnen de onderzoeksmethoden verder toegelicht worden door een van onze ambassadeurs Prof.dr.Claartje Levelt (Leiden University, Centre for Linguistics, expert in language acquisition in infants and children). Daarnaast kan er een bezoek gebracht worden aan het Baby Lab in Leiden om te kijken hoe de onderzoeken in een offline omgeving gedaan worden en hoe de data momenteel verzameld en geanalyseerd wordt.
+Indien wenselijk kunnen de onderzoeksmethoden verder toegelicht worden door een van onze ambassadeurs Prof.dr.Claartje Levelt (Leiden University, Centre for Linguistics, expert in language acquisition in infants and children). Daarnaast kan er een bezoek gebracht worden aan het Baby Lab in Leiden om te kijken hoe de onderzoeken in een offline omgeving gedaan worden en hoe de data momenteel verzameld en geanalyseerd wordt. -->
 
 ## Data
 Ontwikkel een omgeving waar de data verkregen uit de methode opgeslagen staat. Het data center moet toegankelijk zijn voor ouders om zo de progressie van hun eigen kind te kunnen volgen. Daarnaast moet er een aparte ingang zijn voor onderzoekers om alle data te kunnen bekijken. Hierbinnen is het van belang dat deze op een simpele manier te segmenteren en te sorteren is. In het kader van privacy kunnen de ouders zelf aangeven of de data van hun kind toegankelijk is voor de onderzoekers of dat ze het afgeschermd willen houden.
