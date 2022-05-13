@@ -26,9 +26,9 @@ Product owner: Jaap van Woudenberg
 Ontwerp en ontwikkel een web applicatie die eindgebruikers in staat stelt om de content van de methode af te kunnen spelen en die de onderzoekers in staat stelt data te verzamelen over het gebruik van de methode en de progressie die de kinderen maken. Tijdens deze eerste fase van de methode zal de focus liggen op het afspelen van taal verhalen en het doen van simpele attentie testjes.
 
 ### User stories
-1 Als ouder wil ik een profiel kunnen aanmaken in de TuMi Mundo voor mijn kind, zodat ik een vreemde taal kan kiezen waarvan mijn kind taalverhalen te horen krijgt. 
+1 Als ouder wil ik een profiel kunnen aanmaken voor mijn kind in de TuMi Mundo (web)app waarin ik een taal kan selecteren, zodat mijn kind taalverhalen te horen krijgt die de taalontwikkeling bevordert. 
 
-2 Als ouder wil ik een visuele fixatie test kunnen uitvoeren in de applicatie, zodat ik de progressie van mijn kind inzichtelijk krijg en wellicht zelfs advies kan krijgen over eventuele relatie tot de gemiddelde prestaties van andere participerende kinderen. 
+2 Als ouder wil ik een visuele fixatie test kunnen uitvoeren in de applicatie, zodat ik de progressie van mijn kind inzichtelijk krijg en wellicht zelfs advies kan krijgen over een eventuele relatie tot de gemiddelde prestaties van andere participerende kinderen. 
 
 3 Als onderzoeker wil ik kunnen zien in hoeverre de data uit de TuMi Mundo app gebruikt kan worden voor wetenschappelijk onderzoek, zodat we de testen niet meer alleen in het baby lab hoeven uit te voeren.
 
