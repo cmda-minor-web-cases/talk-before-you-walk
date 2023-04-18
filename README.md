@@ -1,4 +1,4 @@
-# TuMi Mundo
+# Talk before you walk
 
 <img width="724" alt="Schermafbeelding 2022-05-12 om 18 48 57" src="https://user-images.githubusercontent.com/61702002/168127311-071f026b-f3a3-47e1-a956-4d4fa9c533ba.png">
 
