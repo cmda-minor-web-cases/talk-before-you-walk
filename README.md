@@ -23,6 +23,8 @@ Product owner: Jaap van Woudenberg
 ## Design challenge
 Ontwerp en ontwikkel een web applicatie die baby's (en hun ouders) helpt bij het ontwikkelen van taal- en communicatieve vaardigheden in het eerste levensjaar. 
 
+<img width="753" alt="It's all about communication" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/1061632/309a30a9-829a-4867-af22-bb8d7ae3beb0">
+
 ### User stories
 1 Als ouder wil ik een profiel kunnen aanmaken voor mijn kind in de TuMi Mundo (web)app waarin ik een taal kan selecteren, zodat mijn kind taalverhalen te horen krijgt die de taalontwikkeling bevordert. 
 
