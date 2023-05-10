@@ -12,7 +12,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-Voor het vloeiend beheersen van een tweede taal is de ideale situatie het vanaf de geboorte opgroeien in een tweetalige omgeving. Voor het vloeiend leren spreken van een tweede taal is het zaak om zo vroeg mogelijk, liefst als jonge baby, met deze tweede taal in aanraking te komen. Talk before you Walk ontwikkelt een applicatie dat een kind al vanaf de geboorte gevoelig maakt voor een tweede taal, en dat vervolgens op een interactieve manier, passend bij de leeftijd en de verschillende ontwikkelingsfasen, het kind begeleidt bij het verwerven van die tweede taal.
+Het spreken van een tweede taal is een waardevolle skill. De ideale situatie om een tweede taal te leren is door al tijdens de babytijd in aanraking te komen met klanken en woorden.  Afgelopen jaren heeft Tumi Mundo in samenwerking met verschillende universiteiten veel data opgehaald door middel van een fysiek baby lab. Momenteel zijn ze de vertaalslag aan het maken naar een digitale tool.
 
 ## Opdrachtgever
 <img width="100" alt="Tumi Mundo" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/1061632/24bf46ae-b119-4791-bed8-63aa35fde4eb">
