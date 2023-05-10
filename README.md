@@ -20,6 +20,8 @@ Aan de hand van smartphone en tablet applicaties willen wij de ouders en hun kin
 
 
 ## Opdrachtgever
+<img width="444" alt="Tumi Mundo" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/1061632/24bf46ae-b119-4791-bed8-63aa35fde4eb">
+
 TuMi Mundo
 Product owner: Jaap van Woudenberg
 
