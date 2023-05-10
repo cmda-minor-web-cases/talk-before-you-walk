@@ -24,7 +24,7 @@ TuMi Mundo
 Product owner: Jaap van Woudenberg
 
 ## Design challenge
-Ontwerp en ontwikkel een web applicatie die eindgebruikers in staat stelt om de content van de methode af te kunnen spelen en die de onderzoekers in staat stelt data te verzamelen over het gebruik van de methode en de progressie die de kinderen maken. Tijdens deze eerste fase van de methode zal de focus liggen op het afspelen van taal verhalen en het doen van simpele attentie testjes.
+Ontwerp en ontwikkel een web applicatie die baby's (en hun ouders) helpt bij het ontwikkelen van taal- en communicatieve vaardigheden in het eerste levensjaar. 
 
 ### User stories
 1 Als ouder wil ik een profiel kunnen aanmaken voor mijn kind in de TuMi Mundo (web)app waarin ik een taal kan selecteren, zodat mijn kind taalverhalen te horen krijgt die de taalontwikkeling bevordert. 
