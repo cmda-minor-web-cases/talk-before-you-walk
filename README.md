@@ -36,7 +36,7 @@ Ontwerp en ontwikkel een web applicatie die baby's (en hun ouders) helpt bij het
 Er is een API beschikbaar waar de, in de web applicatie, gegenereerde data kan worden opgeslagen.
 
 ## Planning
-De kick of vindt plaats op 23 Mei. Hierbij zullen zowel de opdrachtgevers als de begeleiders aanwezig zijn om eventuele vragen over de briefing te beantwoorden. 
+De kick of vindt plaats op dinsdag 30 Mei. Hierbij zullen zowel de opdrachtgevers als de begeleiders aanwezig zijn om eventuele vragen over de briefing te beantwoorden. 
 Wekelijks wordt er aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen er altijd vragen gesteld worden via een nader te bepalen medium.
 
 Als agile studenten team krijgen jullie begeleiding van:
