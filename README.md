@@ -26,9 +26,9 @@ Ontwerp en ontwikkel een web applicatie die baby's (en hun ouders) helpt bij het
 <img width="753" alt="It's all about communication" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/1061632/309a30a9-829a-4867-af22-bb8d7ae3beb0">
 
 ### User stories
-1 Als ouder wil ik een profiel kunnen aanmaken voor mijn kind in de TuMi Mundo (web)app waarin ik een taal kan selecteren, zodat mijn kind taalverhalen te horen krijgt die de taalontwikkeling bevordert. 
+1 Als ouder wil ik een visuele test kunnen uitvoeren in de applicatie, zodat ik de progressie van mijn kind inzichtelijk krijg en wellicht zelfs advies kan krijgen over een eventuele relatie tot de gemiddelde prestaties van andere participerende kinderen. 
 
-2 Als ouder wil ik een visuele fixatie test kunnen uitvoeren in de applicatie, zodat ik de progressie van mijn kind inzichtelijk krijg en wellicht zelfs advies kan krijgen over een eventuele relatie tot de gemiddelde prestaties van andere participerende kinderen. 
+2 Als ouder wil ik een profiel kunnen aanmaken voor mijn kind in de TuMi Mundo (web)app waarin ik een taal kan selecteren, zodat mijn kind taalverhalen te horen krijgt die de taalontwikkeling bevordert. 
 
 3 Als onderzoeker wil ik kunnen zien in hoeverre de data uit de TuMi Mundo app gebruikt kan worden voor wetenschappelijk onderzoek, zodat we de testen niet meer alleen in het baby lab hoeven uit te voeren.
 
