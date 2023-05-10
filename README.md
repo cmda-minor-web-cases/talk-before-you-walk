@@ -12,12 +12,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-Door de wetenschappelijke en technologische vooruitgang komt er steeds meer inzicht in het proces van taalontwikkeling bij kinderen. Wij voorzien dat deze nieuwe inzichten en de technologische ontwikkelingen een steeds grotere toegevoegde waarde zullen hebben in de ondersteuning van ouders en kinderen bij de ontwikkeling van hun moedertaal en andere talen.
-
-TuMi Mundo begeleidt het kind (en ouders) al vanaf het eerste uur bij het ontwikkelen van communicatieve vaardigheden. Onze eerste fase van de leermethode laat baby’s vanaf de geboorte basisklanken van meerdere talen horen. Het potentieel om meerdere talen te leren, dat ieder kind heeft, blijft hierdoor behouden en vormt zo een goede basis van waaruit hij zijn communicatieve vaardigheden ten volle kan gaan ontwikkelen en gebruiken. Binnen dit proces zijn continuïteit van de input en interactie tussen ouders en kind van groot belang.
-
-Aan de hand van smartphone en tablet applicaties willen wij de ouders en hun kind begeleiden in het leggen van een basis voor de ontwikkeling van zowel zijn moeder taal alsmede een tweede vreemde taal. Deze applicatie zal aansluiten op de verschillende fases in de ontwikkeling van de taalvaardigheid van het kind. Daarbij zal de geboden content afgestemd zijn op de vatbaarheid voor taal bij het kind tijdens deze fases.
-
+Voor het vloeiend beheersen van een tweede taal is de ideale situatie het vanaf de geboorte opgroeien in een tweetalige omgeving. Voor het vloeiend leren spreken van een tweede taal is het zaak om zo vroeg mogelijk, liefst als jonge baby, met deze tweede taal in aanraking te komen. Talk before you Walk ontwikkelt een applicatie dat een kind al vanaf de geboorte gevoelig maakt voor een tweede taal, en dat vervolgens op een interactieve manier, passend bij de leeftijd en de verschillende ontwikkelingsfasen, het kind begeleidt bij het verwerven van die tweede taal.
 
 ## Opdrachtgever
 <img width="100" alt="Tumi Mundo" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/1061632/24bf46ae-b119-4791-bed8-63aa35fde4eb">
