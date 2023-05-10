@@ -1,6 +1,7 @@
 # Talk before you walk
 
-<img width="724" alt="Schermafbeelding 2022-05-12 om 18 48 57" src="https://user-images.githubusercontent.com/61702002/168127311-071f026b-f3a3-47e1-a956-4d4fa9c533ba.png">
+<img width="1009" alt="Scherm­afbeelding 2023-05-10 om 10 35 04" src="https://github.com/cmda-minor-web-cases/talk-before-you-walk/assets/61702002/dcc7c33d-a2e9-4196-aba8-4f12af5f7b5c">
+
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
